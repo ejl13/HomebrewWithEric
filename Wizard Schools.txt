@@ -1,0 +1,66 @@
+evocation
+necromancy
+abjuration
+illusion
+transmutation (witch)
+conjuration
+
+Disguise Self/Silent Image
+Hypnotic Pattern/Mirror Image
+Invisibility Sphere/Major Image
+Hallucinatory Terrain/Illusory Wall/Phantasmal Killer(4e)
+Mirage Arcana/Persistent Image/Seeming
+Mislead/Veil(Phantom Mask)
+Mass Invisibility/Project image
+Scintillating Pattern
+Weird
+
+
+Phantom Chasm ("Bottomless Pit")
+Visions of Avarice ("Fool's Gold")
+Thought Cage (hold person w/ no sustain+concentration)
+Spectral image (enc, 5 min med object/person+sound, no move, Def=10, hit or tough dispels, insight DC15+int mod+1/2lvl to spot)
+
+4e based list:
+Phantom Chasm/Horrid Whispers
+Phantasmal Terrain
+Visions of Avarince
+Phantasmal Assailant
+Face of Death(Combine Visions of Ruin?)/Taunting Phantoms
+Illusory Wall
+
+
+Invisibility=>lvl3?
+I like blur as general
+
+
+
+[All create undead spells=> rituals, rel or arcana, disadv if not a necromancer or evil cleric?]
+
+Cause Fear/Chill Touch/Ray of Enfeeblement
+Command Undead/Ghoul Touch/Scare
+VAMPIRIC TOUCH/Ray of exhaustion
+ANIMATE DEAD/Fear
+Wave of Fatigue/Blight
+Circle of Death/Create Undead
+Finger of Death/Waves of Exhaustion
+Create Greater Undead/Horrid Wilting
+Wail of the Banshee/Energy Drain (similar concept, not lvl drain)
+
+Lifetaker (lvl 2? kill living enemy, give you/ally temp hp= surge value)
+Summon Undead Minion [Steve] (lvl 3?)
+Wall of Gloom (lvl 5?)
+Enervation @ lvl 8 (4e)
+Soul Harvest (orig. lvl 8, kill living enemy, give you/ally HP=lvl and saving throw)
+Summon Shadow Wraith
+
+
+Shield (Another)
+Prot Arrows/Resist Energy
+Dispel Magic/Prot Energy
+Dimensional Anchor/Lesser Globe of Invulnerability/Remove Curse
+Break Enchantment/Dismissal
+Antimagic Field/Grt Dispel/Globe of Invul
+Banishment/Spell Turning
+Prismatic Wall/Prot from Spells
+Mage's Disjunction/Prismatic Sphere
