@@ -1,0 +1,89 @@
+Level 1:
+Rituals:
+Alarm
+Hold Portal
+Detect Secret Doors?
+Identify
+
+Spells:
+Shield
+Grease
+Obscuring Mist
+Charm Person
+Sleep
+Magic Missle
+(Shocking Grasp=>at-will)
+Color Spray
+Enlarge Person
+Acid Arrow
+Scorching Ray/Flaming Sphere(4e)?
+Expiditious Retreat
+Feather Fall
+
+Level 2:
+Rituals:
+Arcane Lock
+Locate Object
+Knock
+
+Spells:
+Resist Energy
+Web
+Gust of Wind
+Flaming Sphere?/Scorching Ray?
+Levitate/Lesser Telekinesis
+Enhance Ability (Bull/Cat/Fox/Owl/Eagle[?])
+
+Level 3:
+Rituals:
+Phantom Steed?
+Water Breathing
+Secret Page
+
+
+Spells:
+Dispel Magic
+Sleet Storm?
+Hold Person
+Lighting bolt
+Wind Wall
+Haste
+Slow
+Bigby's Icy Grasp
+Stinking Cloud
+Dimension Door(4e)
+Invisibility
+Acid Mire
+Fire Shield
+
+Level 4:
+Rituals:
+Remove Curse
+Locate Creature
+
+Spells:
+Stoneskin
+Black Tentacles?
+Ice Storm
+Wall of Ice
+Wall of Fire
+Shout
+
+Level 5:
+Rituals:
+Break Enchantment
+Private Sanctum
+Teleport?
+
+Spells:
+Wall of Stone? (normally use other elements)
+Wall of Force
+Hold Monster
+Telekinesis
+Rock to Mud
+Lightning Serpent
+Sword of Force
+Arcane Gate
+Blur
+Resistance
+True Seeing
